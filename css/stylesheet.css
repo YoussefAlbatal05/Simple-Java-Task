@@ -1,0 +1,11 @@
+
+body{
+   background-image: url(../imgs/AdobeStock_261204444_Preview_\(1\)-transformed\ \(1\).jpeg);
+   background-repeat: no-repeat;
+   background-position: center;
+   background-size: cover;
+   width: 100%; 
+   background-attachment: fixed;
+   position: relative;
+}
+
